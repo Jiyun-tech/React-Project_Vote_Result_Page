@@ -4,7 +4,7 @@ import Result from './Results';
 
 function App() {
   const obj= {
-    title: "후보자 득표율",
+    title: "후보자별 득표율",
     header: ["후보", "득표 결과"],
     items : [
       {id: 1, name: "김오돌", voteEarned: 10, voteRate: 45.5},
