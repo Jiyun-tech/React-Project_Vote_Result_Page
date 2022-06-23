@@ -9,6 +9,6 @@ function Menu() {
             <div className="menu">개표결과</div>
         </div>
     );
-  }
-  
-  export default Menu;
+}
+
+export default Menu;
